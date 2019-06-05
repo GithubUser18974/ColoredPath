@@ -5,4 +5,4 @@ every time you hit the transision Gate that hat changes it's color similar to ga
 .
 
 
-<img src="https://github.com/mohamedaraby122/ColoredPath/blob/master/ezgif.com-video-to-gif.gif" width="300"/>
+<img src="https://github.com/mohamedaraby122/ColoredPath/blob/master/ezgif.com-video-to-gif.gif" width="700"/>
